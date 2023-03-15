@@ -1,0 +1,21 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.anchor{
+    background-color: white;
+    font-size: 30px;
+    border-radius: 50px;
+    margin-top: 50px;
+    height: 50px;
+    display: table;
+    color: black;
+    width: 200px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
